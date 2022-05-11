@@ -50,7 +50,6 @@ const newConfig = Object.assign({}, config, {
     'no-bitwise': 'error',
     'no-caller': 'error',
     'no-cond-assign': 'error',
-    'no-console': 'warn',
     'no-debugger': 'error',
     'no-empty': 'error',
     'no-empty-function': 'error',
